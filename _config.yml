@@ -6,3 +6,10 @@ url: https://seifertdaniel.github.io/jtd/
 
 aux_links:
   Template Repository: https://github.com/SeifertDaniel/jtd
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
