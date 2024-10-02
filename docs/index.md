@@ -3,9 +3,9 @@ title: Home
 layout: home
 ---
 
-# {$modulename}
+# {{ site.modulename }}
 
-Weitere Informationen zum Modul **{$modulename}** finden Sie in unserem [Shop].
+Weitere Informationen zum Modul **{{ site.modulename }}** finden Sie in unserem [Shop].
 
 ----
 

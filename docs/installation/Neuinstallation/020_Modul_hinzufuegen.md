@@ -4,7 +4,7 @@ title: Modul zur Installation hinzufügen
 
 ### **auf der Kommandozeile**
 
-Führen Sie in der Konsole im Hauptverzeichnis Ihres Shops (oberhalb des `source`- und `vendor`-Verzeichnisses) diesen Befehl aus, um das Modul **{$modulename}** zur Installation hinzuzufügen:
+Führen Sie in der Konsole im Hauptverzeichnis Ihres Shops (oberhalb des `source`- und `vendor`-Verzeichnisses) diesen Befehl aus, um das Modul **{{ site.modulename }}** zur Installation hinzuzufügen:
 
 ```bash
 php composer require {$composerident}:^{$moduleversion} --update-no-dev

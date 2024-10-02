@@ -1,6 +1,5 @@
 - Struktur nachbilden
 - globale Variablen
 - Layout definieren
-- Generierung ausschließlich aus Docs-Ordner
 - Generierung nur bei erstelltem Tag
 - Versionierung
