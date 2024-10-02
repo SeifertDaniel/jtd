@@ -1,15 +1,16 @@
-title: Just the Docs Template
+title: Auftragsmanager
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://seifertdaniel.github.io/jtd/
+modulename: Auftragsmanager
 
 aux_links:
   Template Repository: https://github.com/SeifertDaniel/jtd
 
 defaults:
   - scope:
-      path: "docs" # an empty string here means all files in the project
+      path: "" # an empty string here means all files in the project
       type: "pages"
     values:
       layout: "default"

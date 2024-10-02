@@ -3,7 +3,7 @@ title: Editionen
 nav_order: 1
 ---
 
-Das Modul **{$modulename}** erhalten Sie in verschiedenen Editionen mit unterschiedlichem Funktionsumfang. Die hier nicht genannten Modulfunktionen sind in allen Editionen gleich.
+Das Modul **{{ site.modulename }}** erhalten Sie in verschiedenen Editionen mit unterschiedlichem Funktionsumfang. Die hier nicht genannten Modulfunktionen sind in allen Editionen gleich.
 
 ## Funktionsumfang
 
