@@ -1,9 +1,9 @@
 ---
 title: Home
-layout: home
+nav_order: 0
 ---
 
-# {{ site.modulename }}
+# {{ site.modulename }} für den OXID eShop
 
 Weitere Informationen zum Modul **{{ site.modulename }}** finden Sie in unserem [Shop].
 
